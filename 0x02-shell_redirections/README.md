@@ -1,1 +1,1 @@
-This project abiut shell script
+This project about shell script
